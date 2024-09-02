@@ -12,9 +12,9 @@ This project involves developing an event-driven data ingestion pipeline using S
 - GCP Pub-Sub Topic
 - Snowflake
 
-  ## <ins>Steps performed </ins>
+## <ins>Steps performed </ins>
 
-  **1. Create a GCP Bucket:**      
+**1. Create a GCP Bucket:**      
 This bucket is where your data files will be stored before they are ingested into Snowflake.    
    
 **2. Create Database and Table in Snowflake Worksheet:**   
